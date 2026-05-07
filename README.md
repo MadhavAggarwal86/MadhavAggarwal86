@@ -13,7 +13,7 @@
 <br>
 
 ## 🤝 Connect with me:
-<a href="https://github.com/MadhavAggarwal86"><img align="left" src="https://skillicons.dev/icons?i=linkedin" alt="Madhav Aggarwal | LinkedIn" width=40px;/>
+<a href="https://www.linkedin.com/in/madhav-aggarwal-maverick/"><img align="left" src="https://skillicons.dev/icons?i=linkedin" alt="Madhav Aggarwal | LinkedIn" width=40px;/>
 </a>
 
 <br>
