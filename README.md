@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align=center>
+    <strong> Hi 👋, I'm  Madhav Aggarwal</strong> 
+</h1>
 
-<!--
-**MadhavAggarwal86/MadhavAggarwal86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me:
+- 👨‍💻 An Asipring AI Engineer & Data Scientist from India
+- 🏫 Integrated Dual Degree in CSE&AI'27 from <a href="https://rgipt.ac.in/">RGIPT</a> (Institute of National Importance).
+- 🎨 Enthusiastic about community involvement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## 🤝 Connect with me:
+<a href="https://github.com/MadhavAggarwal86"><img align="left" src="https://skillicons.dev/icons?i=linkedin" alt="Madhav Aggarwal | LinkedIn" width=40px;/>
+</a>
+
+<br>
+<br>
+<br>
+
+<div id="badges">
+
+## 🛠️ Languages and Tools :
+<p>
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=py,c,cpp,tensorflow,pytorch,fastapi,flask,mysql,postgres,bash,html,css,linux,windows,docker,aws,git,github,pycharm,vscode"/>
+  </a>
+</p>
+</div>
+
+<br>
+
+## 📈 GitHub Stats
+<div style="display: flex;">
+    <div style="margin-right: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavAggarwal86&layout=compact&theme=highcontrast" alt="Languages" style="height: 197px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=MadhavAggarwal86&show_icons=true&theme=highcontrast" alt="GitHub Stats" style="height: 197px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavAggarwal86&theme=highcontrast" alt="GitHub Streak Stats" style="height: 190px;">
+    </div>
+</div>
+<br>
