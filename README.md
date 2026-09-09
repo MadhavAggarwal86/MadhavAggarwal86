@@ -5,7 +5,7 @@
 <br>
 
 ## 🧑‍💻 About Me:
-- 👨‍💻 An Asipring AI Engineer & Data Scientist from India
+- 👨‍💻 An Asipring AI Engineer & Web Developer from India
 - 🏫 Integrated Dual Degree in CSE&AI'27 from <a href="https://rgipt.ac.in/">RGIPT</a> (Institute of National Importance).
 - 🎨 Enthusiastic about community involvement.
 - ⚡️ Sometimes busy doing Competitive Programming and problem solving.
