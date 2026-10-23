@@ -27,13 +27,13 @@
 ## 🏆 Competitive Programming Profiles:
 
 <a href="https://leetcode.com/u/maverick_hawk/">
-  <img align="left" src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" width="40px"/>
+  <img align="left" src="https://icons8.com/icon/wDGo581Ea5Nf/leetcode" alt="LeetCode" width="40px"/>
 </a>
 <a href="https://codeforces.com/profile/MaverickHawk">
-  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codeforces.svg" alt="Codeforces" width="40px"/>
+  <img align="left" src="https://icons8.com/icon/jldAN67IAsrW/codeforces" alt="Codeforces" width="40px"/>
 </a>
 <a href="https://www.codechef.com/users/maverickhawk">
-  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codechef.svg" alt="CodeChef" width="40px"/>
+  <img align="left" src="https://brandfetch.com/codechef.com?view=library&library=default&collection=logos&asset=idiSE15kP0&utm_source=https%253A%252F%252Fbrandfetch.com%252Fcodechef.com&utm_medium=copyAction&utm_campaign=brandPageReferral" alt="CodeChef" width="40px"/>
 </a>
 
 <br>
