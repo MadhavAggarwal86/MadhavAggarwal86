@@ -7,9 +7,8 @@
 ## 🧑‍💻 About Me:
 - 👨‍💻 An Asipring AI Engineer & Web Developer from India
 - 🏫 Integrated Dual Degree in CSE&AI'27 from <a href="https://rgipt.ac.in/">RGIPT</a> (Institute of National Importance).
-- 🎨 Enthusiastic about community involvement.
-- ⚡️ Sometimes busy doing Competitive Programming and problem solving.
-
+- 🎨 Curious about how things works.
+- ⚡️ Sometimes busy doing <b>Competitive Programming</b> and <b>problem-solving</b>.
 <br>
 
 ## 🤝 Connect with me:
@@ -19,6 +18,22 @@
 </a>
 <a href="mailto:madhavaggarwal86@gmail.com">
   <img align="left" src="https://skillicons.dev/icons?i=gmail" alt="Madhav Aggarwal | Email" width="40px" />
+</a>
+
+<br>
+<br>
+<br>
+
+## 🏆 Competitive Programming Profiles:
+
+<a href="https://leetcode.com/u/maverick_hawk/">
+  <img align="left" src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" width="40px"/>
+</a>
+<a href="https://codeforces.com/profile/MaverickHawk">
+  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codeforces.svg" alt="Codeforces" width="40px"/>
+</a>
+<a href="https://www.codechef.com/users/maverickhawk">
+  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codechef.svg" alt="CodeChef" width="40px"/>
 </a>
 
 <br>
