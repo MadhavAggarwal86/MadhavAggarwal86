@@ -8,6 +8,7 @@
 - 👨‍💻 An Asipring AI Engineer & Web Developer from India
 - 🏫 Integrated Dual Degree in CSE&AI'27 from <a href="https://rgipt.ac.in/">RGIPT</a> (Institute of National Importance).
 - 🎨 Curious about how things works.
+- 🏆 <b>Competitive Programming:</b> LeetCode Knight (Max Rating: 2006) · CodeChef 3★ (Max Rating: 1602)
 - ⚡️ Sometimes busy doing <b>Competitive Programming</b> and <b>problem-solving</b>.
 <br>
 
