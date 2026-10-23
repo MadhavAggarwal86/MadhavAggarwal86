@@ -15,6 +15,11 @@
 ## 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/madhav-aggarwal-maverick/"><img align="left" src="https://skillicons.dev/icons?i=linkedin" alt="Madhav Aggarwal | LinkedIn" width=40px;/>
 </a>
+<a href="https://x.com/Maverick_Hawk86"><img align="left" src="https://skillicons.dev/icons?i=twitter" alt="Madhav Aggarwal | X" width=40px;/>
+</a>
+<a href="mailto:madhavaggarwal86@gmail.com">
+  <img align="left" src="https://skillicons.dev/icons?i=gmail" alt="Madhav Aggarwal | Email" width="40px" />
+</a>
 
 <br>
 <br>
