@@ -27,7 +27,7 @@
 ## 🏆 Competitive Programming Profiles:
 
 <a href="https://leetcode.com/u/maverick_hawk/">
-  <img align="left" src="https://img.icons8.com/?size=100&id=LnZMjt9rZC3d&format=png&color=000000" alt="LeetCode" width="40px"/>
+  <img align="left" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40px"/>
 </a>
 <a href="https://codeforces.com/profile/MaverickHawk">
   <img align="left" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="40px"/>
