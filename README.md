@@ -33,7 +33,7 @@
   <img align="left" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="40px"/>
 </a>
 <a href="https://www.codechef.com/users/maverickhawk">
-  <img align="left" src="https://brandfetch.com/codechef.com?view=library&library=default&collection=logos&asset=idiSE15kP0&utm_source=https%253A%252F%252Fbrandfetch.com%252Fcodechef.com&utm_medium=copyAction&utm_campaign=brandPageReferral" alt="CodeChef" width="40px"/>
+  <img align="left" src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" width="40px"/>
 </a>
 
 <br>
